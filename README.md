@@ -152,14 +152,12 @@ The Android plugin sends an HTTP POST to your configured ```url``` with ```Conte
 
 ```
 {
-    "location": {
-        "latitude": "<data>",
-        "longitude": "<data>",
-        "speed": "<data>",
-        "bearing" "<data>",
-        "altitude": "<data>",
-        "recorded_at": "<data>"
-    }
+    "latitude": "<data>",
+    "longitude": "<data>",
+    "speed": "<data>",
+    "bearing" "<data>",
+    "altitude": "<data>",
+    "recorded_at": "<data>"
 }
 ```
 
